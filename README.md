@@ -1,2 +1,2 @@
-- [default material button.png](https://quack-ui.duckie.team/team.duckie.quackquack.ui_QuackButtonSnapshot_default material button.png)
-- [quack large button.png](https://quack-ui.duckie.team/team.duckie.quackquack.ui_QuackButtonSnapshot_quack large button.png)
+- [default_material_button.png](https://quack-ui.duckie.team/team.duckie.quackquack.ui_QuackButtonSnapshot_default%20material%20button.png)
+- [quack_large_button.png](https://quack-ui.duckie.team/team.duckie.quackquack.ui_QuackButtonSnapshot_quack%20large%20button.png)
