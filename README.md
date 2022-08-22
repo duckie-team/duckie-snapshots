@@ -1,4 +1,2 @@
-## duckie quackquack ui components snapshot
-
-- [DefaultMaterialButton.png](https://quack-ui.duckie.team/team.duckie.quackquack.ui_QuackButtonSnapshot_DefaultMaterialButton.png)
-- [QuackLargeButton.png](https://quack-ui.duckie.team/team.duckie.quackquack.ui_QuackButtonSnapshot_QuackLargeButton.png)
+- [default material button.png](https://quack-ui.duckie.team/team.duckie.quackquack.ui_QuackButtonSnapshot_default material button.png)
+- [quack large button.png](https://quack-ui.duckie.team/team.duckie.quackquack.ui_QuackButtonSnapshot_quack large button.png)
