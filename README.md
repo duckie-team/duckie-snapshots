@@ -1,6 +1,3 @@
-# Duckie Quack-Quack UI 스냅샷
+# 📸 duckie-snapshots
 
-- [QuackToggle](QuackToggle.md)
-- [QuackFab](QuackFab.md)
-
-#### 2022.09.27 21:42:59 에 생성됨
+매 PR 마다 자동 생성되는 덕키 프로젝트의 스냅샷 배포 공간입니다.
